@@ -23,10 +23,7 @@ time.sleep(0.5)
 
 print(warna("💖 Dev: @YanOfficialID", Fore.MAGENTA))
 print(warna("📞 CS: Telegram Ready...", Fore.YELLOW))
-print(warna("🌐 Use: Domain atau IP, tampilan warna GACOR
-", Fore.MAGENTA))
-time.sleep(0.5)
-
+print(warna("🌐 Use: Domain atau IP, tampilan warna GACOR", Fore.MAGENTA))
 print(warna("┌─[ MENU TOOLS ]─┐", Fore.YELLOW))
 print(warna("│ 1. CEK IP HOST", Fore.MAGENTA))
 print(warna("│ 2. DDOS DOMAIN/IP", Fore.MAGENTA))
