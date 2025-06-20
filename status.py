@@ -1,0 +1,6 @@
+print("🛡️ STATUS TOOLS")
+print("Nama Tools: YANTOOLS-DDOS-VIP")
+print("Developer: @YanOfficialID")
+print("Versi: 1.0 GACOR")
+print("Update: 20 Juni 2025")
+print("💖 Status: 100% FREE & GACOR!")
